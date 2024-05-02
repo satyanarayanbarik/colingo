@@ -1,0 +1,11 @@
+{
+  "name": "colingo",
+  "version": "1.0.0",
+  "description": "Idea ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyanarayan Barik",
+  "license": "ISC"
+}
